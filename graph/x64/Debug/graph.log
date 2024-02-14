@@ -1,0 +1,3 @@
+﻿  graph.cpp
+graph.obj : error LNK2019: unresolved external symbol "struct node * __cdecl createEmptyList(void)" (?createEmptyList@@YAPEAUnode@@XZ) referenced in function "int __cdecl addDirectedEdge(struct Graph,int,int,int)" (?addDirectedEdge@@YAHUGraph@@HHH@Z)
+C:\Users\maple\source\repos\graph\x64\Debug\graph.exe : fatal error LNK1120: 1 unresolved externals
